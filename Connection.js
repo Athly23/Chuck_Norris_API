@@ -1,6 +1,6 @@
 const mongoose = require("mongoose");
 
-const mongoURI = "";
+let mongoURI = "";
 
 if (process.env.NODE_ENV === "production") {
   mongoURI = process.env.DB_URL;
