@@ -1,5 +1,14 @@
 const mongoose = require("mongoose");
-mongoose.connect("mongodb://localhost/Chuck-Norris-API", {
+
+const mongoURI = "";
+
+if (process.env.NODE_ENV === "production") {
+  mongoURI = process.env.DB_URL;
+} else {
+  mongoURI = "mongodb://localhost/Chuck-Norris-API";
+}
+
+mongoose.connect(mongoURI, {
   useNewUrlParser: true,
   useFindAndModify: false,
   useUnifiedTopology: true,

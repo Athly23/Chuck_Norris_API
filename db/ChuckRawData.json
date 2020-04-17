@@ -88,5 +88,410 @@
     "updated_at": "2020-01-05 13:42:27.496799",
     "url": "https://api.chucknorris.io/jokes/JmFNImG6TnaPpkCmPvmVgg",
     "value": "Chuck Norris' parents tried to make him eat peas when he was a kid. Chuck Norris ate his parents."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:18.823766",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "z0vjwbedqhqfph0mc88skg",
+    "updated_at": "2020-01-05 13:42:18.823766",
+    "url": "https://api.chucknorris.io/jokes/z0vjwbedqhqfph0mc88skg",
+    "value": "Nobody doesn't like Sara Lee. Except Chuck Norris."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:23.484083",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "6DhxyAYuTm-GUaIvrTG8qw",
+    "updated_at": "2020-01-05 13:42:23.484083",
+    "url": "https://api.chucknorris.io/jokes/6DhxyAYuTm-GUaIvrTG8qw",
+    "value": "Jesus can walk on water but Chuck Norris can swim on land."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:21.179347",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "wDKBkuHlSvawR6bdKbG78Q",
+    "updated_at": "2020-01-05 13:42:21.179347",
+    "url": "https://api.chucknorris.io/jokes/wDKBkuHlSvawR6bdKbG78Q",
+    "value": "If you knock your drink over at Chuck Norris' house, you will be killed before the drink hits the carpet. Then Norris will catch the glass without spilling a drop anyway."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:20.262289",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "ro-NUoxiQDaoEcH8ucMcew",
+    "updated_at": "2020-01-05 13:42:20.262289",
+    "url": "https://api.chucknorris.io/jokes/ro-NUoxiQDaoEcH8ucMcew",
+    "value": "Stevie Wonder can see what a badass Chuck Norris is."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:23.484083",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "uC2RL-1_S1ikyXSaPK8Ogg",
+    "updated_at": "2020-01-05 13:42:23.484083",
+    "url": "https://api.chucknorris.io/jokes/uC2RL-1_S1ikyXSaPK8Ogg",
+    "value": "Whenever Chuck Norris getss thirsty, he doesn't buy water or drink from a fountain. He prefers the arterial spray from a freshly decapitated passerby."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:19.324003",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "zpCRTxM4TIu3pk8xlhUwtg",
+    "updated_at": "2020-01-05 13:42:19.324003",
+    "url": "https://api.chucknorris.io/jokes/zpCRTxM4TIu3pk8xlhUwtg",
+    "value": "After a round of 18 holes of golf, Chuck Norris beat Tiger Woods with a score of 17 to 63."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:21.795084",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "wfNAvMrARKKNaLU5392sEg",
+    "updated_at": "2020-01-05 13:42:21.795084",
+    "url": "https://api.chucknorris.io/jokes/wfNAvMrARKKNaLU5392sEg",
+    "value": "Once upon a time Chuck Norris took a swim in the oceans, ever since it has remained salty from Chuck Norris' sweat."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:25.628594",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "W_zx0SPoRymZ1CumfZ3PdA",
+    "updated_at": "2020-01-05 13:42:25.628594",
+    "url": "https://api.chucknorris.io/jokes/W_zx0SPoRymZ1CumfZ3PdA",
+    "value": "Chuck Norris uses Old Faithful as his private bidet."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:23.880601",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "j8zu_3H6Qf-GbPDgPyYi3Q",
+    "updated_at": "2020-01-05 13:42:23.880601",
+    "url": "https://api.chucknorris.io/jokes/j8zu_3H6Qf-GbPDgPyYi3Q",
+    "value": "Facebook as got a Chuck Norris account"
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:28.664997",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "-TTubSnlS_yttRztA1TymA",
+    "updated_at": "2020-01-05 13:42:28.664997",
+    "url": "https://api.chucknorris.io/jokes/-TTubSnlS_yttRztA1TymA",
+    "value": "Chuck Norris volunteers at the hospital, he pulls the plugs"
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:24.40636",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "pox2qE13QKuWnx4uo_5ylQ",
+    "updated_at": "2020-01-05 13:42:24.40636",
+    "url": "https://api.chucknorris.io/jokes/pox2qE13QKuWnx4uo_5ylQ",
+    "value": "Chuck Norris tells black jokes without looking over his shoulder"
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:28.143137",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "E1v7N6uSSm2AB_QkXrp5tg",
+    "updated_at": "2020-01-05 13:42:28.143137",
+    "url": "https://api.chucknorris.io/jokes/E1v7N6uSSm2AB_QkXrp5tg",
+    "value": "Chuck Norris' semen is the main ingredient for napalm."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:23.484083",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "-Du82AQAQPqzh9G6KmXhrw",
+    "updated_at": "2020-01-05 13:42:23.484083",
+    "url": "https://api.chucknorris.io/jokes/-Du82AQAQPqzh9G6KmXhrw",
+    "value": "Chuck Norris doesn't clip his fingernails. He rips them with his bare hands and regrows new ones immediately."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:21.179347",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "FMINGt4sTa-vmotA_Byk0w",
+    "updated_at": "2020-01-05 13:42:21.179347",
+    "url": "https://api.chucknorris.io/jokes/FMINGt4sTa-vmotA_Byk0w",
+    "value": "Chuck Norris won the Texas state lottery by turning in a bingo card."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:29.296379",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "zl1p5A8WTeGMeuOQkrOJEg",
+    "updated_at": "2020-01-05 13:42:29.296379",
+    "url": "https://api.chucknorris.io/jokes/zl1p5A8WTeGMeuOQkrOJEg",
+    "value": "Chuck Norris once broke the land speed record on a bicycle that was missing a chain and a front tire"
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:24.696555",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "kpMe_8FpQg2R5_3CCx2YRw",
+    "updated_at": "2020-01-05 13:42:24.696555",
+    "url": "https://api.chucknorris.io/jokes/kpMe_8FpQg2R5_3CCx2YRw",
+    "value": "Chuck Norris can dig through water."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:20.568859",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "18dXoUVNRbiAn-JfSx2NqQ",
+    "updated_at": "2020-01-05 13:42:20.568859",
+    "url": "https://api.chucknorris.io/jokes/18dXoUVNRbiAn-JfSx2NqQ",
+    "value": "Chuck Norris's daughter once lost her virginity. He got it back"
+  },
+  {
+    "categories": ["explicit"],
+    "created_at": "2020-01-05 13:42:19.104863",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "odognilzqycwinumdqbwwq",
+    "updated_at": "2020-01-05 13:42:19.104863",
+    "url": "https://api.chucknorris.io/jokes/odognilzqycwinumdqbwwq",
+    "value": "Chuck Norris uses ribbed condoms inside out, so he gets the pleasure."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:26.194739",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "-o4PnZJZQGWqGujEPqczNQ",
+    "updated_at": "2020-01-05 13:42:26.194739",
+    "url": "https://api.chucknorris.io/jokes/-o4PnZJZQGWqGujEPqczNQ",
+    "value": "Chuck Norris eats leaves and shits out crisp 100 dollar bills in neat bundles. He refers to the process as eco-friendly minting process."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:26.991637",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "jHDeYSU-R_WZ71w1ITCPKw",
+    "updated_at": "2020-01-05 13:42:26.991637",
+    "url": "https://api.chucknorris.io/jokes/jHDeYSU-R_WZ71w1ITCPKw",
+    "value": "Chuck Norris can jump...without leaving the ground."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:27.496799",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "NvGqef9uQLCEL-g9RpFKyg",
+    "updated_at": "2020-01-05 13:42:27.496799",
+    "url": "https://api.chucknorris.io/jokes/NvGqef9uQLCEL-g9RpFKyg",
+    "value": "Chuck Norris' sextape was in the Ark of the Covenant"
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:30.177068",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "xvcUrBP9SWqbRWglMzwGbg",
+    "updated_at": "2020-01-05 13:42:30.177068",
+    "url": "https://api.chucknorris.io/jokes/xvcUrBP9SWqbRWglMzwGbg",
+    "value": "Chuck Norris decided to sell his fart to the auto racing industry, we know it now as nitrous oxide."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:30.480041",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "Vfcu3qotS4-UcYNpQtNPag",
+    "updated_at": "2020-01-05 13:42:30.480041",
+    "url": "https://api.chucknorris.io/jokes/Vfcu3qotS4-UcYNpQtNPag",
+    "value": "Chuck Norris has a shit list its called the obituarys"
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:28.420821",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "_eLD9PRxS9-hNbuTfF7-oA",
+    "updated_at": "2020-01-05 13:42:28.420821",
+    "url": "https://api.chucknorris.io/jokes/_eLD9PRxS9-hNbuTfF7-oA",
+    "value": "Mother Teresa said Chuck Norris was the only man she ever wanted to marry."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:28.420821",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "MdaAQfxhR2i3ESfWtkwA3Q",
+    "updated_at": "2020-01-05 13:42:28.420821",
+    "url": "https://api.chucknorris.io/jokes/MdaAQfxhR2i3ESfWtkwA3Q",
+    "value": "When Chuck Norris gets an erection, the street lights dim."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:25.905626",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "S6DSSNNQTE-o9hn01CGvCA",
+    "updated_at": "2020-01-05 13:42:25.905626",
+    "url": "https://api.chucknorris.io/jokes/S6DSSNNQTE-o9hn01CGvCA",
+    "value": "Chuck Norris invented black, in fact,, he invented every color except for pink. Tom Cruise invented pink"
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:19.324003",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "G-DF8h9yQ36oz0VTF5lsXw",
+    "updated_at": "2020-01-05 13:42:19.324003",
+    "url": "https://api.chucknorris.io/jokes/G-DF8h9yQ36oz0VTF5lsXw",
+    "value": "Chuck Norris can chew with his mouth open"
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:22.089095",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "b7BKU15BS0OUYSMOwcO9cg",
+    "updated_at": "2020-01-05 13:42:22.089095",
+    "url": "https://api.chucknorris.io/jokes/b7BKU15BS0OUYSMOwcO9cg",
+    "value": "Chuck Norris can create fire by rubbing two ice cubes"
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:25.905626",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "aEnwblrcTvK3FeWwHZCVrw",
+    "updated_at": "2020-01-05 13:42:25.905626",
+    "url": "https://api.chucknorris.io/jokes/aEnwblrcTvK3FeWwHZCVrw",
+    "value": "Chuck Norris has no friends on Facebook. Just enemies."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:28.664997",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "0u_C9RdbQAyD9CYeFREO7A",
+    "updated_at": "2020-01-05 13:42:28.664997",
+    "url": "https://api.chucknorris.io/jokes/0u_C9RdbQAyD9CYeFREO7A",
+    "value": "Chuck Norris can swallow a bannana and make you look gay."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:24.696555",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "p9zTwrOFQmi-kpxS6e0wbw",
+    "updated_at": "2020-01-05 13:42:24.696555",
+    "url": "https://api.chucknorris.io/jokes/p9zTwrOFQmi-kpxS6e0wbw",
+    "value": "The 1st time Chuck Norris tried bowling he rolled a 301."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:21.179347",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "dr-6q8VCTQ62a6Lah9c0qA",
+    "updated_at": "2020-01-05 13:42:21.179347",
+    "url": "https://api.chucknorris.io/jokes/dr-6q8VCTQ62a6Lah9c0qA",
+    "value": "If you smoke Chuck Norris' back hair, you get high forever."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:30.177068",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "1OnckJtaQreIMgp1z5wSlA",
+    "updated_at": "2020-01-05 13:42:30.177068",
+    "url": "https://api.chucknorris.io/jokes/1OnckJtaQreIMgp1z5wSlA",
+    "value": "Chuck Norris created girafes wen he uppercutted a horse"
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:19.104863",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "iZVkxaRVRlmXV2uq8TqgiQ",
+    "updated_at": "2020-01-05 13:42:19.104863",
+    "url": "https://api.chucknorris.io/jokes/iZVkxaRVRlmXV2uq8TqgiQ",
+    "value": "There are no such thing as disabled people; only people who met Chuck Norris and lived."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:28.984661",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "P8MWe0lESlyU8vcuoGUh6w",
+    "updated_at": "2020-01-05 13:42:28.984661",
+    "url": "https://api.chucknorris.io/jokes/P8MWe0lESlyU8vcuoGUh6w",
+    "value": "Chuck Norris can play a PS3 game on a PS2 console."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:29.855523",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "IhnjAUC8QMCEnqyyvbXy9A",
+    "updated_at": "2020-01-05 13:42:29.855523",
+    "url": "https://api.chucknorris.io/jokes/IhnjAUC8QMCEnqyyvbXy9A",
+    "value": "In 3rd grade , Chuck Norris wrote tthat 1+1=4 , and was instantly promoted to 8th grade."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:24.696555",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "1BYqNs0MSzmtl9ivZikisA",
+    "updated_at": "2020-01-05 13:42:24.696555",
+    "url": "https://api.chucknorris.io/jokes/1BYqNs0MSzmtl9ivZikisA",
+    "value": "Chuck Norris once listened to an entire song....on mute"
+  },
+  {
+    "categories": ["dev"],
+    "created_at": "2020-01-05 13:42:19.324003",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "41rkit60rnklc8w7fox1cq",
+    "updated_at": "2020-01-05 13:42:19.324003",
+    "url": "https://api.chucknorris.io/jokes/41rkit60rnklc8w7fox1cq",
+    "value": "Chuck Norris can access the DB from the UI."
+  },
+  {
+    "categories": ["dev"],
+    "created_at": "2020-01-05 13:42:19.324003",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "41rkit60rnklc8w7fox1cq",
+    "updated_at": "2020-01-05 13:42:19.324003",
+    "url": "https://api.chucknorris.io/jokes/41rkit60rnklc8w7fox1cq",
+    "value": "Chuck Norris can access the DB from the UI."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:22.701402",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "-iiztX18QISvnXReyb4NaA",
+    "updated_at": "2020-01-05 13:42:22.701402",
+    "url": "https://api.chucknorris.io/jokes/-iiztX18QISvnXReyb4NaA",
+    "value": "Chuck Norris does not dodge bullets, bullets dodge Chuck Norris"
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:19.897976",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "qv2kSmo9TCigy0ixPIqoXQ",
+    "updated_at": "2020-01-05 13:42:19.897976",
+    "url": "https://api.chucknorris.io/jokes/qv2kSmo9TCigy0ixPIqoXQ",
+    "value": "Chuck Norris is the fifth Beatle."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:28.984661",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "DLqW_fuXQnO1LtveTTAWRg",
+    "updated_at": "2020-01-05 13:42:28.984661",
+    "url": "https://api.chucknorris.io/jokes/DLqW_fuXQnO1LtveTTAWRg",
+    "value": "Chuck Norris Lost his virginity before his Dad..."
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:23.240175",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "cuMDk9QpSGSIJ3CO2xU7Kg",
+    "updated_at": "2020-01-05 13:42:23.240175",
+    "url": "https://api.chucknorris.io/jokes/cuMDk9QpSGSIJ3CO2xU7Kg",
+    "value": "Chuck Norris had to go pee, next thing you now the oceans were made"
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:24.696555",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "j8Ngqd1dSxmT0SYqVTZpEg",
+    "updated_at": "2020-01-05 13:42:24.696555",
+    "url": "https://api.chucknorris.io/jokes/j8Ngqd1dSxmT0SYqVTZpEg",
+    "value": "Chuck Norris cut his own umbilical cord"
+  },
+  {
+    "categories": [],
+    "created_at": "2020-01-05 13:42:25.628594",
+    "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+    "id": "1btqRml9RDK6U7NYyk_5Nw",
+    "updated_at": "2020-01-05 13:42:25.628594",
+    "url": "https://api.chucknorris.io/jokes/1btqRml9RDK6U7NYyk_5Nw",
+    "value": "Chuck Norris can squeeze orange juice out of a banana."
   }
 ]
