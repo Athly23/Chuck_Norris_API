@@ -6,6 +6,14 @@ This is a JSON API that has full CRUD (Create, READ, Update, Delete) capability 
 
 Mongoose and Express
 
+# Heroku URL
+
+https://chuck-norris-jokes-api.herokuapp.com/jokes
+
+# NOTE
+
+Most effective way to check the methods below is through POSTMAN
+
 # CREATE
 
 - URL for CREATE
