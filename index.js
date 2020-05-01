@@ -44,7 +44,7 @@ app.put("/jokes/:id", (req, res) => {
 
 //this route deletes
 app.delete("/jokes/:id", (req, res) => {
-  Word.findOneAndRemove({ _id: req.params.id }).then(jokes => {
+  Chuck.findOneAndRemove({ _id: req.params.id }).then(jokes => {
     res.json(jokes);
   });
 });
