@@ -6,6 +6,7 @@ app.use(parser.json());
 
 app.use(function (req, res, next) {
   res.header("Access-Control-Allow-Credentials", "true");
+  res.header("Access-Control-Allow-Methods", "GET, POST, OPTIONS, PUT, DELETE");
   res.header("Access-Control-Allow-Origin", "http://localhost:3000"); //change to url for deployed site
   res.header(
     "Access-Control-Allow-Headers",
@@ -44,7 +45,7 @@ app.put("/jokes/:id", (req, res) => {
 
 //this route deletes
 app.delete("/jokes/:id", (req, res) => {
-  Chuck.findOneAndRemove({ _id: req.params.id }).then(jokes => {
+  Chuck.findOneAndRemove({ jokeID: req.params.id }).then(jokes => {
     res.json(jokes);
   });
 });
